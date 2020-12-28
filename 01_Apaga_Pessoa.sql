@@ -14,6 +14,6 @@ end;
 
 Teste GIT
 
-Git Course
+Git Course 2
 
 
